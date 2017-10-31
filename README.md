@@ -1,2 +1,3 @@
 # rpms-useful
-Some useful .rpm packages for Centos 6 32 bit
+## .rpm packages which were tested on Centos 6 32 bit
+## the .rpm extension defines the architecture so feel free to use them on other OS-s as well
